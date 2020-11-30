@@ -22,7 +22,7 @@ Then, activate your environment by
 ```
 source activate pytorch
 ```
-
+ 
 ## How to run
 
 1. Choose the algorithm you want to use and change to the corresponding folder (DQN or MPC)
