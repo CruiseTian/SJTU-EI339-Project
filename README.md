@@ -17,7 +17,7 @@ All the required packages are included in the ```environment.yaml``` file. You c
 conda env create -f environment.yaml
 ```
 
-Then, activate your environment by 
+Then, activate your environment by
 
 ```
 source activate pytorch
